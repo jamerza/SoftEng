@@ -1,0 +1,181 @@
+Introduction
+
+Alcoholic drink production requires only a few raw materials; cereal grain plus yeast plus water, which are heated, fermented, matured and decanted, producing ethanol liquor.  Thus, it would appear only the final product is flammable and if the ethanol is sufficiently diluted, in the case of beers, lagers and other alcoholic beverages, no flammable atmospheres exist.  If only it were that simple!  
+
+Most brewers and distillers now buy their malt from specialist suppliers, with malt grains delivered to site by road truck, tipped, and conveyed to the mill house or storage silos. It is then elevated to upper floors of mill houses for destoning, sieving and milling.  Milling breaks the grain to reveal the inner cotyledon containing the carbohydrates and sugars.  
+
+In the conveying, sieving and milling processes dust is generated, including fines, which can form flammable dust clouds, both inside equipment and if not well sealed, externally as well.  Dust is generally extracted to independent dust collector systems.  Milled malt or ‘grist’ is conveyed to and stored in silos ready for production in the ‘masher’ where water is added.  
+
+The intermediate beer brewing and spirit mashing processes are then largely water based and thus flammable atmospheres are no longer present.  
+
+Spirit manufacture uses similar raw materials. Malt grains have the outer husk and bran removed before milling to produce grist.  In a ‘mash tun’ stirring encourages sugars to form and the liquor is then added to a “washback” where yeast is added before the fermentation process takes place.  The resultant liquor contains less than 10% ABV (alcohol by volume)  and is now passed to the ‘Still’, where concentration of alcohol takes place to create a maximum strength of 94.8% ABV.
+
+The Law
+
+Brewers and distillers handle flammable (explosible) materials so are subject to national law in Europe in the form of ATEX 1999/92/EC Directive  or in the UK DSEAR 2002 Regulations. These force employers to ensure workplaces are safe from fire and explosion risk.  
+
+ATEX and DSEAR, in effect, state a hierarchical approach of ‘Three Rules’:
+
+1. Do not have a flammable atmosphere, but if you do…
+
+2. Do not ignite it, but if you do…
+
+3. Do not hurt anyone.  
+
+To show compliance with the law, for existing plant a suitable hazard and risk assessment is necessary, which should document the following:
+
+* Flammable materials on site
+
+* Hazardous Area Classification (HAC) for all areas
+
+* Assessment of ignition sources and their elimination in hazardous areas
+
+* Assessments for “equipment” (i.e. mechanical and electrical equipment)
+
+* If flammable atmosphere(s) and or ignition sources cannot be eliminated with certainty then:
+
+* Explosion protection in conjunction with explosion isolation is necessary. 
+
+Each process requires a “Basis of Safety”, for both normal and expected abnormal operation, which may be: 
+
+a) Avoidance of flammable atmospheres, and/or 
+
+b) Avoidance of ignition sources, 
+
+c) If a) and or b) are not suitable, then explosion protection with explosion isolation is required.
+
+Corrective recommendations, if necessary, should be included in each section by the assessor.
+
+For new build or plant modifications, all of the above should be undertaken as well as ensuring only suitable ATEX-certified equipment is installed in designated hazardous areas. Overall explosion safety should be verified by a Competent Person before going into operation for the first time.  
+
+Flammable atmosphere
+
+Fuel explosions (i.e. gases, vapours mists, dusts, and hybrids ((mixtures of flammable materials e.g. dust and vapour)) occur in fractions of a second.  In order to control the hazard, all flammable atmospheres must to be identified.  For flammable dust, there has to be sufficient fine dust in a dust cloud at or above the ‘Minimum Explosible Concentration’. Material safety data sheets (MSDS) can be used but rarely can specific dust data be found on MSDS’s.  Literature sources can be misleading as grain type, whether raw or roasted, particle size, and moisture content, all affect ignition sensitivity.   Thus, care is required when generic data are used and it is always recommended to undertake specific ignition sensitivity and explosion severity testing.  
+
+Flammability data required may include Minimum Explosion Concentration (MEC); Minimum Ignition Energy (MIE); Minimum Ignition Temperature (MIT); and Layer Ignition Temperature (LIT), Maximum Pressure (Pmax); and severity constant (KSt), with all the required data dependent upon the defined Basis of Safety. It is often argued as grain moisture content is high and thus ignition sensitivity is low, an ignition is an unlikely occurrence. However, in the Blaye (4) dust explosion incident, the moisture content was greater than 10% by weight.  
+
+For ethanol, flash point for both solutions and concentrate, lower and upper explosion limits (LEL/UEL) and auto ignition temperature (AIT) are required.  Ethanol data are readily available from literature and data for any flammable gases, whether in bulk or in cylinders, should also be obtained where applicable.  
+
+Preventing flammable atmospheres by inert gas, e.g. nitrogen, which is commonly used in pharmaceutical and fine chemical industries, is not appropriate for the brewing and distilling sector.  Equipment is often not suitably sealed and introducing nitrogen (an asphyxiant) into an operational culture unused to handling it, presents increased hazards.  
+
+
+Hazardous area classification
+
+Once flammable materials (vapour, gases, dust, etc.) have been identified, the presence of a hazardous explosive atmosphere must be identified. This is based upon frequency or probability of release or ‘Grades of Release’, which are: 
+
+* ‘Continuous’ - present greater than 10% a year, e.g. inside vessels 
+
+* ‘Primary’ - present between 10% and 1% a year or only occasionally in ‘normal operation’, e.g. sampling operations
+
+* ‘Secondary’ present 1 % of a year, only in ‘expected abnormal operation’, e.g. leaks from vessels
+
+Hazardous and non-hazardous areas should be identified for dust, vapour and gases within the site and findings should be documented and site drawings made.  Once the sources and grade of release have been identified, Zone designation and extent can be assigned for gases and vapours. These are Zone 0 (Continuous grade), Zone 1 (Primary grade) & Zone 2 (Secondary grade) and for dusts Zones 20 (Continuous grade), Zone 21 (Primary grade), & Zone 22 (Secondary grade).  
+
+Blanket zoning of workplaces should be avoided - remember the hierarchical approach above.  
+
+Dusty mill houses are not acceptable.  Layers of dust on floors, pipelines, and walls is fuel waiting to be raised into a dust cloud. Increasing the zone severity, say from non-hazardous to Zone 22 or Zone 21 to cater for layers means accepting personnel working in explosible atmospheres in normal operation.  That means a dust concentration greater than 50 g/m3 in the workplace in normal operation, which is obviously unsatisfactory when occupational hygiene levels are in the mg/m3 level.  
+
+Keeping the fuel inside the equipment should be the primary aim by keeping plant sealed through good design and maintenance, and the use of secondary flexible connections also reduces leakage.  There should be a focus of careful cleaning (avoiding dust clouds of course), sealing plant and improving extraction systems.  
+
+Similarly for distilleries, in spirit handling areas, pump rooms, etc. vapours should be eliminated by good ventilation removing heavier than air vapour at low points.  These measures have real benefits on the working environment, reducing secondary explosion hazards in the workplace and can reduce the cost of equipment by using non-ATEX equipment, e.g. lighting.  
+
+Minimising the sizes of external hazardous areas in the workplace should be the aim of all brewing and distilling companies.  Finally, hazardous areas should be properly identified by using the ATEX EX (explosible atmosphere) symbol at all entrances, so all personnel understand special precautions are necessary.  
+
+Ignition sources
+
+EN1127-Part 1 lists thirteen types of ignition source. Usually in the brewing and distilling sector 1 to 8 are relevant but all 13 should be assessed:
+
+1. Flames/hot gases (including hot particles)
+
+2. Unsuitable/malfunctioning electrical plant
+
+3. Hot surfaces
+
+4. Mechanically generated sparks
+
+5. Static electricity 
+
+6. Thermal decomposition (dust self-ignition) 
+
+7. Lightning – atmospheric static 
+
+8. Stray currents, cathodic protection
+
+9. RF electromagnetic waves 
+
+10. Visible light electromagnetic waves 
+
+11. Ionising radiation
+
+12. Ultrasonics
+
+13. Adiabatic compression and shock waves.
+
+An ignition source assessment requires applicable flammability data.  An “effective” ignition source has to have more energy than the minimum necessary to ignite the fuel, for example electrostatic discharges are a real hazard with vapour or gas, but less so for grain dust.  
+
+Mechanical ignition is one of the main hazards for dust. Elevators, conveyors, mills etc. can all be potent sources of mechanical friction and sparks if a malfunction occurs.  A preventative maintenance scheme should be in place for all mechanical equipment, including bucket elevators. 
+
+Explosion protection in grain handling
+
+Where there is a high probability of a flammable atmosphere and reliably eliminating ignition sources cannot be achieved, then some form of explosion protection is necessary:
+
+* Venting
+
+* Suppression
+
+* Containment
+
+The above measures should be combined with suitable measures to prevent explosion propagation.  
+
+Protection systems are covered under ATEX and thus have to be suitably certified.  During grain conveying, for example, bucket elevators are explosion vented, which is acceptable provided they vent to a prohibited “safe” area. (see image below).
+
+
+Explosion venting into the workplace is not acceptable under ATEX, but is sometimes observed in the brewing and distilling sector.  Venting inside increases risk of serious injury, and secondary dust explosions (see HAC above), and is a common issue found in the industry during assessments. However, explosion-venting indoors can be permitted by using flameless venting devices. 
+
+However, they are not ‘fit and forget’ items - they require regular inspection and maintenance to ensure they do not become choked.  
+
+Whether grain silos require explosion protection is often debated due to low dust concentration, large particle size and absence of ignition sources.  Many new-build silos are explosion-vented but existing silos are generally of unknown strength, so whether retrofitted vents can be fitted is not always easy to verify.  In these cases, precautions to minimise dust and control all effective ignition sources are essential, together with the exclusion of personnel during filling, which is when the main dust explosion risk exists.  
+
+Suppression systems are another satisfactory method of protecting plant, but specialist companies are needed to design, supply, fit, and maintain the equipment.  Their use in brewing and distilling is increasing as there is no release of products of combustion, and systems always include explosion isolation such as chemical barriers, whereas in vented systems, explosion isolation has to be separately considered.  
+
+Building plant with sufficient strength to contain explosions is not generally undertaken in brewing and distilling: many plants are too large and the extra installation costs would be high. This is nevertheless becoming common in some other industries where smaller plant is used, materials are toxic and full containment is required at all times.
+
+Explosion isolation of dust collector systems (and other plant items) fitted with explosion venting from non-protected plant is often overlooked.  If a dust collector is not “de-coupled” and an explosion in this higher risk item occurs, it can propagate back through the entire plant system.  Simple explosion diverters that stop pressure-piling effects can be used, but these may not stop flame propagation.  Alternatively, some flap valves, chemical barriers, Ventex valves, slam-shut valves, etc., can be used. 
+
+It is often poorly understood that explosion-protected plant should not be opened when it is in operation.  Examples include opening silo manways for level checking or inspection.  
+
+The image below shows a hinged flap on the boot of a bucket elevator that is opened daily for manual material feed where there is no explosion barrier.
+
+Spirit Manufacture
+
+The ‘Basis of Safety’ for spirit manufacturing includes ignition source controls which includes: 
+
+* good earthing and bonding (which includes ensuring operators are suitably earthed) 
+
+* avoiding splash filling tanks
+
+* avoiding hotwork 
+
+* preventing mechanically generated sparks 
+
+* ensuring the use of suitable equipment 
+
+* good ventilation 
+
+* use of flame arresters on outside vents  
+
+Emergency relief vent systems have to be carefully designed, so releases of flammable liquid and vapours cannot not be made to the workplace.  Often, spirit tanks are found indoors with the vent indoors, and flame arresters not suitably maintained.
+
+In older distilleries, hazardous areas should be reviewed where blanket zoning has been used, as often the size of Zones can be reduced. Ventilation effectiveness should also be reviewed and all existing electrical and mechanical equipment should be assessed for suitability. Often, this is a case of individual item inspections and a judgement call made item by item.  As equipment is replaced in hazardous areas, it should be to the appropriate ATEX category and installed and maintained by competent, appropriately trained personnel.  
+
+In the UK most distilleries produce Scotch whisky, which has to be matured for at least three years, and typically 10 years or more for unblended malt whisky. This has to be stored in wooden casks at 60% to 65% ABV (flash point ˜ 20°C) and is stacked in warehouses. Casks are porous and evaporation occurs so ethanol vapour is released to atmosphere by natural ventilation. Thus, warehouses are hazardous areas but often there is no lighting or mechanical ventilation so forklift trucks are often the only ATEX Category 3 equipment. Where lighting is used, sometimes non-Ex lighting can be justified due to the vapour density of ethanol. In bonded warehouses, insurers tend to dictate the safety requirements.   However, it should also be ensured that personnel take in no ignition sources, thus all torches, communications equipment, etc., should be certified as suitable.  
+
+Once matured, whisky has to be filtered, sometimes blended, and bottled.  Bottling plants are often separated from distilleries and they receive spirit by road tanker, which is then stored before dilution to final bottle strength (typically 40% ABV, 26°C flash point, so often does not  form flammable concentrations at ambient temperatures (depending on plant location)). However, realistic hazardous areas associated with all of these activities must be established and risk assessments undertaken.    
+
+Conclusion 
+
+In the brewing and distilling industry, both the raw ingredients and the finished product can form hazardous explosive atmospheres. It is important to minimise these explosive atmospheres, especially those external to plant items. However, poor plant layout can lead to the formation of an explosive atmosphere indoors, for example by venting spirit tanks indoors. 
+
+Other problems with venting often include a lack of design calculations and explosion isolation devices.
+
+Ignition source control is important within the explosive atmospheres. Earthing of persons handling ethanol and the correct ingress protection on electrical equipment are often overlooked. Finally, where the presence of an explosive atmosphere and an ignition source cannot be avoided then explosion protection is required. 
